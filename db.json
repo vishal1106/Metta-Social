@@ -1,0 +1,88 @@
+{
+  "flightData": [
+  {
+    "originCity":"pune" ,
+    "price":"5800",
+    "codeorigin":"PNQ",
+    "destinationCity":"delhi",
+    "codedest":"DEL",
+    "departureTime": "10:00AM",
+    "arrivalTime": "12:00 PM",
+    "returndepartureTime": "80:00PM",
+    "returnarrivalTime": "11:00 PM",
+    "depart":"2022-11-01",
+      "return":"2022-11-10",
+      "departCode":"Al-201",
+      "arrival":"Al-202",
+      "image":"https://imgs.search.brave.com/9FHTsnqXHqsJmGJUJlkwceGc0JmSPy05rr2fwERBEcU/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC50/cS1OVnBRdlNkQmhy/b3Q3OTR2ZGxnSGFG/aiZwaWQ9QXBp"
+  }
+  ,
+  {
+    "originCity":"pune" ,
+    "codeorigin":"PNQ",
+    "price":"7000",
+    "destinationCity":"mumbai",
+    "codedest":"MUM",
+    "departureTime": "10:00AM",
+    "arrivalTime": "12:00 PM",
+    "returndepartureTime": "80:00PM",
+    "returnarrivalTime": "11:00 PM",
+    "depart":"2022-11-01",
+      "return":"2022-11-10",
+      "departCode":"Al-201",
+      "arrival":"Al-202",
+      "image":"https://imgs.search.brave.com/9FHTsnqXHqsJmGJUJlkwceGc0JmSPy05rr2fwERBEcU/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC50/cS1OVnBRdlNkQmhy/b3Q3OTR2ZGxnSGFG/aiZwaWQ9QXBp"
+  },
+  {
+    "originCity":"pune" ,
+    "codeorigin":"PNQ",
+    "price":"8000",
+    "destinationCity":"mumbai",
+    "codedest":"MUM",
+    "departureTime": "10:00AM",
+    "arrivalTime": "12:00 PM",
+    "returndepartureTime": "80:00PM",
+    "returnarrivalTime": "11:00 PM",
+    "depart":"2022-11-01",
+      "return":"2022-11-10",
+      "departCode":"Al-201",
+      "arrival":"Al-202",
+      "image":"https://imgs.search.brave.com/9FHTsnqXHqsJmGJUJlkwceGc0JmSPy05rr2fwERBEcU/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC50/cS1OVnBRdlNkQmhy/b3Q3OTR2ZGxnSGFG/aiZwaWQ9QXBp"
+  }
+  ,
+  {
+    "originCity":"pune" ,
+    "codeorigin":"PNQ",
+    "price":"1000",
+    "destinationCity":"mumbai",
+    "codedest":"MUM",
+    "departureTime": "10:00AM",
+    "arrivalTime": "12:00 PM",
+    "returndepartureTime": "80:00PM",
+    "returnarrivalTime": "11:00 PM",
+    "depart":"2022-11-01",
+      "return":"2022-11-10",
+      "departCode":"Al-201",
+      "arrival":"Al-202",
+      "image":"https://imgs.search.brave.com/9FHTsnqXHqsJmGJUJlkwceGc0JmSPy05rr2fwERBEcU/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC50/cS1OVnBRdlNkQmhy/b3Q3OTR2ZGxnSGFG/aiZwaWQ9QXBp"
+  },
+  {
+    "originCity":"pune" ,
+    "codeorigin":"PNQ",
+    "price":"50000",
+    "destinationCity":"mumbai",
+    "codedest":"MUM",
+    "departureTime": "10:00AM",
+    "arrivalTime": "12:00 PM",
+    "returndepartureTime": "80:00PM",
+    "returnarrivalTime": "11:00 PM",
+    "depart":"2022-11-01",
+      "return":"2022-11-10",
+      "departCode":"Al-201",
+      "arrival":"Al-202",
+      "image":"https://imgs.search.brave.com/9FHTsnqXHqsJmGJUJlkwceGc0JmSPy05rr2fwERBEcU/rs:fit:632:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC50/cS1OVnBRdlNkQmhy/b3Q3OTR2ZGxnSGFG/aiZwaWQ9QXBp"
+  }
+   
+  
+  ]
+}

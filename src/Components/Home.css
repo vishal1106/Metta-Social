@@ -1,0 +1,28 @@
+.main{
+    display: flex;
+  
+    width:80% ;
+    height: 100%;
+    box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
+    margin: auto;
+    text-align: left;
+ 
+}
+.div1{
+    /* border: 1px solid black; */
+    width: 35%;
+}
+
+.div2{
+    /* border: 1px solid black; */
+    width: 65%;
+}
+.heading{
+    box-shadow: rgba(50, 50, 105, 0.15) 0px 2px 5px 0px, rgba(0, 0, 0, 0.05) 0px 1px 1px 0px;
+    width:80%;
+   
+    margin: auto;
+    text-align: center;
+    margin-top: 30px;
+
+}
